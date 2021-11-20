@@ -93,7 +93,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This program is be used to read configration from yaml file then write it in /etc/fstab file 
+This program is be used to read configuration from yaml file then write it in /etc/fstab file 
 
 
 
