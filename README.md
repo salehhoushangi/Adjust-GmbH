@@ -27,8 +27,7 @@
 ## About The Project
 Creating a utility to process that YAML and output an /etc/fstab file based on
 that yaml.
-Please provide your code along with a README describing the use. The code will
-form part of the future conversations you will have with the hiring team.
+Please provide your code along with a README describing the use.
 You are free to use languages and environments regarding a system of your choice
 but the tasks must run on a Linux system.
 Note: You should use a programming/scripting language to achieve this task, and
