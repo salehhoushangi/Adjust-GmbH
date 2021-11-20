@@ -12,7 +12,7 @@
   <h3 align="center">Adjust-GmbH</h3>
 
   <p align="center">
-   adjust challange for Platform engineer opportunity!
+   adjust challange for Platform engineer 
     <br />
   </p>
 </div>
